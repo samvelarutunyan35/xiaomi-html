@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Start Nav */
+#nav {
+    background-color: #322d2d;
+    display: flex;
+    align-items: center;
+    padding: 5px 15px;
+}
+
+#nav_list {
+    display: flex;
+    justify-content: space-around;
+    width: 180px;
+    list-style: none;
+    margin-left: 15px;
+}
+
+#nav_list > li > a {
+    color: #f0f8ff;
+}
+/* End Nav */
+
+/* Start Main */
+#banner {
+    width: 100%;
+}
+/* End Main */
+
