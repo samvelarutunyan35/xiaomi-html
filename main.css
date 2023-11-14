@@ -16,6 +16,10 @@ a {
     text-decoration: none;
 }
 
+.active {
+    border-bottom: 1px solid ;
+}
+
 /* Start Nav */
 #nav {
     background-color: #322d2d;
