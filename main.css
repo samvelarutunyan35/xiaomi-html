@@ -24,6 +24,25 @@ h1 {
     border-bottom: 1px solid ;
 }
 
+#main {
+    padding: 15px;
+}
+
+table {
+    margin-top: 10px;
+    width: 100%;
+    max-width: 800px;
+}
+
+table, th, td {
+    border: 1px solid ;
+    border-collapse: collapse;
+    padding: 3px;
+}
+
+th {
+    background-color: azure;
+}
 /* Start Nav */
 #nav {
     background-color: #322d2d;
@@ -48,10 +67,6 @@ h1 {
 /* Start Main */
 #banner {
     width: 100%;
-}
-
-#about {
-    padding: 15px;
 }
 
 #links {
