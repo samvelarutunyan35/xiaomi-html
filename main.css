@@ -16,6 +16,10 @@ a {
     text-decoration: none;
 }
 
+h1 {
+    text-align: center;
+}
+
 .active {
     border-bottom: 1px solid ;
 }
@@ -122,6 +126,10 @@ hr {
         display: grid;
         justify-content: center;
         text-align: center;
+    }
+
+    #gallery > img {
+        width: 49%;
     }
 }
 
